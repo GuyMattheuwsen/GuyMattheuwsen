@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @guymattheuwsen
+- 👀 I’m interested in sports, history and wine
+- 🌱 I am a fullstack developer freshly graduated from Le Wagon
+- 💞️ I’m looking to collaborate on fun projects ... drop me a message ;)
+- 📫 How to reach me : guy.mattheuwsen@gmail.com
 
 <!--
 **GuyMattheuwsen/GuyMattheuwsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
